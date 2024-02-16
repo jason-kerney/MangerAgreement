@@ -6,7 +6,7 @@ Defining “Team Success” involves key aspects that are essential and complime
 
 These outcomes result from team success and should be treated as outcomes, not activities. The order of listing reflects their priority to me, with some determined by their contribution to achieving the next item.
 
-1. [Psychological Safety Outcomes][#psychological-safety-outcomes]
+1. [Psychological Safety Outcomes](#psychological-safety-outcomes)
 2. [Quality and Customer Delight Outcomes][Quality and Customer Delight Outcomes]
 3. [Collaboration and Communication Outcomes][Collaboration and Communication Outcomes]
 4. [Business Impact Outcomes][Business Impact Outcomes]
