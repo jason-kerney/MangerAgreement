@@ -12,7 +12,7 @@ These outcomes result from team success and should be treated as outcomes, not a
 4. [Business Impact Outcomes](#business-impact-outcomes)
 5. [Continuous Improvement Outcomes](#continuous-improvement-outcomes)
 6. [Achievement of Goals Outcomes](#achievement-of-goals-outcomes)
-7. [Work-Life Balance Outcomes](#work-life-balance-outcomes)
+7. [Work-Life Balance Outcomes](#work-life-balance-outcome)
 
 ## Explanation of the Outcomes
 
