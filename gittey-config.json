@@ -1,0 +1,24 @@
+{
+    "branchPrefix": {
+        "separator": "",
+        "validator": "",
+        "prefixes": {}
+    },
+    "commitPrefix": {
+        "separator": " ",
+        "validator": "^.{1,45}$",
+        "prefixes": {}
+    },
+    "verboseMode": false,
+    "aliases": [
+        {
+            "name": "build:readme",
+            "command": "cls; booklisp ./docs/Readme/_main.md ./Readme.md"
+        },
+        {
+            "name": "push",
+            "command": "gittey build:readme && gittey commit && git push"
+        }
+    ],
+    "collaborators": []
+}
