@@ -18,6 +18,10 @@
         {
             "name": "push",
             "command": "gittey build:readme && gittey commit && git push"
+        },
+        {
+            "name": "undo",
+            "command": "git clean -xfd && git checkout ."
         }
     ],
     "collaborators": []
