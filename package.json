@@ -1,0 +1,17 @@
+{
+  "name": "mangeragreement",
+  "version": "1.0.0",
+  "description": "As a Software Development Manager my, primary, goal is to ensure an environment that enables success and gives the team a shared vision. That goal can be broken down into 4 sub goals. Those sub-goals are below in priority order:",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jason-kerney",
+  "license": "CC Attribution-ShareAlike 4.0 International",
+  "devDependencies": {
+    "all-contributors-cli": "^6.26.1"
+  }
+}
