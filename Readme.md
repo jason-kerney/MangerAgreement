@@ -4,8 +4,8 @@ As a Software Development Manager my, primary, goal is to ensure an environment 
 
 1. Help my teams succeed here at our company.
    * Visible by seeing [success outcomes](./TeamSuccess.md).
-2. Help my people succeed here at our company
-3. Help my people succeed in growing their careers.
+2. Help the people I manage succeed here at our company
+3. Help the people I manage succeed in growing their careers.
 4. Ensure that our place of employment is, and remains a desirable place to work.
    * I believe this goal will be achieved by the fulfillment of the previous 3 items.
 
