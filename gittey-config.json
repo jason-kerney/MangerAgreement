@@ -13,15 +13,19 @@
     "aliases": [
         {
             "name": "build",
-            "command": "gittey build:teamSuccess && gittey build:readme"
-        },
-        {
-            "name": "build:readme",
-            "command": "cls; booklisp ./docs/Readme/_main.md ./Readme.md"
+            "command": "gittey build:teamSuccess && gittey build:managerRubric && gittey build:readme"
         },
         {
             "name": "build:teamSuccess",
             "command": "cls; booklisp ./docs/TeamSuccess/_main.md ./TeamSuccess.md"
+        },
+        {
+            "name": "build:managerRubric",
+            "command": "cls; booklisp ./docs/ManagerRubric/_main.md ./ManagerRubric.md"
+        },
+        {
+            "name": "build:readme",
+            "command": "cls; booklisp ./docs/Readme/_main.md ./Readme.md"
         },
         {
             "name": "push",
