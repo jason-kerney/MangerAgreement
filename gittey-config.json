@@ -12,12 +12,20 @@
     "verboseMode": false,
     "aliases": [
         {
+            "name": "build",
+            "command": "gittey build:teamSuccess && gittey build:readme"
+        },
+        {
             "name": "build:readme",
             "command": "cls; booklisp ./docs/Readme/_main.md ./Readme.md"
         },
         {
+            "name": "build:teamSuccess",
+            "command": "cls; booklisp ./docs/TeamSuccess/_main.md ./TeamSuccess.md"
+        },
+        {
             "name": "push",
-            "command": "gittey build:readme && gittey commit && git push"
+            "command": "gittey build && gittey commit && git push"
         },
         {
             "name": "undo",
